@@ -31,7 +31,7 @@
 				<energyUpkeep base="4.0"/> <!-- %energyUpkeep base tier=8 factor=1.0 -->
 				<energyCost base="40.0"/> <!-- %energyCost base tier=8 factor=0.5 -->
 				<hitpointsMax base="24.0"/> <!-- %hitpointsMax base toughness=7 wounds=3 -->
-				<meleeAccuracy base="6"/> <!-- %meleeAccuracy base weaponSkill=3 -->
+				<meleeAccuracy base="3"/> <!-- %meleeAccuracy base weaponSkill=3 -->
 				<meleeAttacks base="2"/>
 				<strengthDamage base="3"/> <!-- %strengthDamage base strength=6 -->
 				<!-- <meleeInitiative base="2"/> -->
@@ -39,7 +39,7 @@
 				<movementMax base="3"/>
 				<oreCost base="40.0"/> <!-- %oreCost base tier=8 factor=0.5 -->
 				<productionCost base="48.0"/> <!-- %productionCost base tier=8 factor=1 -->
-				<rangedAccuracy base="6"/> <!-- %rangedAccuracy base ballisticSkill=3 -->
+				<rangedAccuracy base="3"/> <!-- %rangedAccuracy base ballisticSkill=3 -->
 			</effects>
 		</modifier>
 	</modifiers>

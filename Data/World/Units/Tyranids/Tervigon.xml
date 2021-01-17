@@ -168,7 +168,7 @@
 			</beginTargets>
 		</hammerOfWrath>
 		<subterraneanAssault name="Tyranids/SubterraneanAssault"/>
-		<livingIncubator cooldown="3"
+		<livingIncubator cooldown="4"
 				name="Tyranids/LivingIncubator"
 				rank="-1"
 				rankMax="2">

@@ -34,7 +34,7 @@
 				<influenceUpkeep base="1.5"/> <!-- %influenceUpkeep base tier=5 factor=1 -->
 				<oreUpkeep base="1.5"/> <!-- %oreUpkeep base tier=5 factor=1 -->
 				<oreCost base="30.0"/> <!-- %oreCost base tier=5 factor=1 -->
-				<productionCost base="30.0"/> <!-- %productionCost base tier=5 factor=1 -->
+				<productionCost base="24.0"/> <!-- %productionCost base tier=5 factor=1 -->
 				<rangedAccuracy base="4"/> <!-- %rangedAccuracy base ballisticSkill=2 -->
 				<strengthDamage base="1"/> <!-- %strengthDamage base strength=3 -->
 			</effects>

@@ -31,7 +31,7 @@
 				<moraleMax base="12"/> <!-- %moraleMax base leadership=10 -->
 				<movementMax base="3"/>
 				<oreUpkeep base="1.5"/> <!-- %oreUpkeep base tier=5 factor=1 -->
-				<productionCost base="30.0"/> <!-- %productionCost base tier=5 factor=1 -->
+				<productionCost base="24.0"/> <!-- %productionCost base tier=5 factor=1 -->
 				<rangedAccuracy base="2"/> <!-- %rangedAccuracy base ballisticSkill=1 -->
 			</effects>
 		</modifier>

@@ -36,7 +36,7 @@
 				<hitpointsMax base="16.0"/> <!-- %hitpointsMax base armor=11/10/10 wounds=2 -->
 				<moraleMax base="10"/>
 				<movementMax base="5"/>
-				<productionCost base="30.0"/> <!-- %productionCost base tier=5 factor=1 -->
+				<productionCost base="24.0"/> <!-- %productionCost base tier=5 factor=1 -->
 				<rangedAccuracy base="6"/> <!-- %rangedAccuracy base ballisticSkill=3 -->
 			</effects>
 		</modifier>

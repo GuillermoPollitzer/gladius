@@ -10,8 +10,8 @@
 			<effects>
 				<biomassOnConsume add="10"/>
 				<buildingSlots add="3"/>
-				<food mul="-0.2"/>
-				<energy mul="0.2"/>
+				<!--<food mul="-0.2"/>-->
+				<energy mul="0.1"/><!--<energy mul="0.2"/>-->
 			</effects>
 		</modifier>
 	</modifiers>
