@@ -3,8 +3,8 @@
 	<modifiers>
 		<modifier>
 			<effects>
-				<rangedAccuracy min="0" max="3"/> <!-- Don't roll to hit. -->
-				<additionalMembersHit add="5"/>
+				<rangedAccuracy min="4" max="4"/> <!-- Don't roll to hit. -->
+				<additionalMembersHit add="19"/>
 			</effects>
 		</modifier>
 	</modifiers>
