@@ -11,6 +11,7 @@
 			</conditions>
 			<effects>
 				<heroDamageReduction add="0.5"/>
+				<preventEnemyOverwatch add="1"/>
 			</effects>
 		</modifier>
 		<modifier>
