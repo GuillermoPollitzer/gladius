@@ -11,7 +11,7 @@
 				bloodBone="Bone001"
 				walker="1"/>
 	</model>
-	<group size="10" rowSize="5" memberDeltaX="70" memberDeltaY="50"/>
+	<group size="14" rowSize="5" memberDeltaX="70" memberDeltaY="50"/>
 	<weapons>
 		<weapon name="Autopistol">
  			<model>

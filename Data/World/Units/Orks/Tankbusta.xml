@@ -11,7 +11,7 @@
 				bloodBone="Bone073"
 				walker="1"/>
 	</model>
-	<group size="5" rowSize="3" memberDeltaX="80" memberDeltaY="80"/>
+	<group size="6" rowSize="3" memberDeltaX="80" memberDeltaY="80"/>
 	<weapons>
 		<weapon name="RokkitLauncha">
 			<model>

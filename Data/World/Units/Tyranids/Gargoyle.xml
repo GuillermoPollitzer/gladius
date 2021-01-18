@@ -11,7 +11,7 @@
 				normalWeight="1.0"
 				bloodBone="BloodBone"/>
 	</model>
-	<group size="8" rowSize="4" memberDeltaX="80" memberDeltaY="60"/>
+	<group size="11" rowSize="4" memberDeltaX="80" memberDeltaY="60"/>
 	<weapons>
 		<weapon name="BlindingVenom">
 			<model>

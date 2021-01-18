@@ -11,7 +11,7 @@
 				bloodBone="BloodBone"
 				walker="1"/>
 	</model>
-	<group size="5" rowSize="3" memberDeltaX="70" memberDeltaY="60"/>
+	<group size="6" rowSize="3" memberDeltaX="70" memberDeltaY="60"/>
 	<weapons>
 		<weapon name="PulseRifle">
 			<model>

@@ -29,7 +29,7 @@
 		<modifier visible="0">
 			<effects>
 				<armor base="6"/> <!-- %armor base armor=10/10/10 -->
-				<hitpointsMax base="16.0"/> <!-- %hitpointsMax base armor=10/10/10 wounds=2 -->
+				<hitpointsMax base="17.6"/> <!-- %hitpointsMax base armor=10/10/10 wounds=2 -->
 				<meleeAccuracy base="6"/> <!-- %meleeAccuracy base weaponSkill=3 -->
 				<meleeAttacks base="1"/>
 				<!-- <meleeInitiative base="3"/> -->
