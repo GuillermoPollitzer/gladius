@@ -1358,7 +1358,7 @@
 	<entry name="TeleportHomerDescription" value="Causes orbital deployment to not consume action points when deploying Terminators adjacent to this unit."/>
 	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
 	<entry name="Template" value="Template"/>
-	<entry name="TemplateDescription" value="Hits up to 10 squad memebers with precision fixed to 3"/>
+	<entry name="TemplateDescription" value="Hits up to 20 squad memebers with precision fixed to 4"/>
 	<entry name="TerminatorArmour" value="Terminator Armour"/>
 	<entry name="TerminatorArmourDescription" value="Increases the damage reduction."/>
 	<entry name="TerminatorArmourFlavor" value="Terminator armour is the best protection a Space Marine can be equipped with. It is even said that Terminator armour can withstand the titanic energies at a plasma generator's core and that this was, in fact, the armour's original purpose."/>
