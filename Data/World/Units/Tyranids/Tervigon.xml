@@ -184,7 +184,7 @@
 						</unit>
 					</conditions>
 					<effects>
-						<biomassCost base="10">
+						<biomassCost base="10"/>
 						<cooldown add="-2"/>
 					</effects>
 				</modifier>
