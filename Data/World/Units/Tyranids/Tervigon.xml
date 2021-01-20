@@ -168,7 +168,7 @@
 			</beginTargets>
 		</hammerOfWrath>
 		<subterraneanAssault name="Tyranids/SubterraneanAssault"/>
-		<livingIncubator cooldown="4"
+		<livingIncubator cooldown="3"
 				name="Tyranids/LivingIncubator"
 				rank="-1"
 				rankMax="2">
@@ -184,6 +184,7 @@
 						</unit>
 					</conditions>
 					<effects>
+						<biomassCost base="10">
 						<cooldown add="-2"/>
 					</effects>
 				</modifier>
