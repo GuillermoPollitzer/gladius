@@ -29,7 +29,7 @@
 		<modifier visible="0">
 			<effects>
 				<armor base="8"/> <!-- %armor base armor=3+ -->
-				<foodCost base="30.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
+				<foodCost base="40.0"/> <!-- %foodCost base tier=7 factor=0.5 -->
 				<foodUpkeep base="3.0"/> <!-- %foodUpkeep base tier=7 factor=1 -->
 				<hitpointsMax base="7.2"/> <!-- %hitpointsMax base toughness=4 wounds=2 -->
 				<meleeAccuracy base="4"/> <!-- %meleeAccuracy base weaponSkill=2 -->
@@ -37,8 +37,8 @@
 				<strengthDamage base="2"/> <!-- %strengthDamage base strength=5 -->
 				<moraleMax base="8"/> <!-- %moraleMax base leadership=7 -->
 				<movementMax base="3"/>
-				<oreCost base="30.0"/> <!-- %oreCost base tier=7 factor=0.5 -->
-				<productionCost base="42.0"/> <!-- %productionCost base tier=7 factor=1 -->
+				<oreCost base="40.0"/> <!-- %oreCost base tier=7 factor=0.5 -->
+				<productionCost base="48.0"/> <!-- %productionCost base tier=7 factor=1 -->
 				<rangedAccuracy base="6"/> <!-- %rangedAccuracy base ballisticSkill=3 -->
 			</effects>
 		</modifier>

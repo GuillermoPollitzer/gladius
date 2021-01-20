@@ -16,12 +16,14 @@
 				<projectileWeapon muzzleBone=".Muzzle2" fireInterval="0.67"/>
 			</model>
 		</weapon>
+		<!--
 		<weapon name="TwinLinkedBurstCannon">
 			<model>
 				<projectileWeapon muzzleBone=".Muzzle"
 						muzzleCount="2"/>		
 			</model>
 		</weapon>
+		-->
 		<weapon name="SeekerMissile" enabled="0" slotName="SeekerMissile">
 			<model>
 				<missileWeapon muzzleBone=".MissileMuzzle"
