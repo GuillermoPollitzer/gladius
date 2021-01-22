@@ -92,7 +92,7 @@
 					<conditions>
 						<unit>
 							<enemy/>
-							<morale less="6.5"/>
+							<morale less="4.5"/>
 							<moraleMax greater="0.0"/>
 							<noTrait name="Headquarters"/>
 						</unit>
