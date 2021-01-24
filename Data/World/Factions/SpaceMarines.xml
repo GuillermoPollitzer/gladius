@@ -307,7 +307,7 @@
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
 				icon="Actions/DeployFortressOfRedemption"
-				scaleInfluenceCost="1"
+				scaleInfluenceCost="0"
 				unit="SpaceMarines/FortressOfRedemption">
 			<model>
 				<action sound="Actions/DropPod"/>
