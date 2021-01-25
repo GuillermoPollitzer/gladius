@@ -54,11 +54,11 @@
 		<jokaeroTraderEncampmentDensity modifier="0.02"/>
 	</jokaeroTraderEncampmentDensities>
 	<landMasses>
-		<landMass modifier="0.35"/>
-		<landMass modifier="0.50"/>
-		<landMass modifier="0.65"/>
-		<landMass modifier="0.80"/>
-		<landMass modifier="0.95"/>
+		<landMass modifier="0.10"/>
+		<landMass modifier="0.20"/>
+		<landMass modifier="0.30"/>
+		<landMass modifier="0.45"/>
+		<landMass modifier="0.60"/>
 	</landMasses>	
 	<necronTombDensities>
 		<necronTombDensity modifier="0.01"/>
@@ -155,7 +155,7 @@
 		<webwayGateDensity modifier="0.04"/>
 	</webwayGateDensities>
 	<wildlifeDensities>
-		<wildlifeDensity modifier="0.02"/>
+		<wildlifeDensity modifier="0.00"/>
 		<wildlifeDensity modifier="0.03"/>
 		<wildlifeDensity modifier="0.04"/>
 		<wildlifeDensity modifier="0.06"/>
