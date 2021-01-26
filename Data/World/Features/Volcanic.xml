@@ -10,8 +10,24 @@
 			<effects>
 				<biomassOnConsume add="10"/>
 				<buildingSlots add="3"/>
-				<!--<food mul="-0.2"/>-->
-				<ore mul="0.1"/>
+				<food mul="-0.2"/>
+				<ore mul="0.2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<conditions>
+				<building>
+					<trait name="Headquarters"/>
+				</building>
+				<player>
+					<noFaction name="Tyranids"/>
+					<noFaction name="SpaceMarines"/>
+					<noFaction name="Necrons"/>
+				</player>
+			</conditions>
+			<effects>
+				<food mul="0.2"/>
+				<ore mul="-0.2"/>
 			</effects>
 		</modifier>
 	</modifiers>
