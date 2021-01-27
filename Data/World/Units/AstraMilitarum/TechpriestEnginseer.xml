@@ -44,7 +44,7 @@
 				<armor base="8"/> <!-- %armor base armor=3+ -->
 				<oreUpkeep base="3.0"/> <!-- %oreUpkeep base tier=7 factor=1 -->
 				<energyCost base="30.0"/> <!-- %energyCost base tier=7 factor=0.5 -->
-				<hitpointsMax base="2.4"/> <!-- %hitpointsMax base toughness=3 wounds=1 -->
+				<hitpointsMax base="2.0"/> <!-- %hitpointsMax base toughness=3 wounds=1 -->
 				<meleeAccuracy base="6"/> <!-- %meleeAccuracy base weaponSkill=3 -->
 				<meleeAttacks base="1"/>
 				<strengthDamage base="1"/> <!-- %strengthDamage base strength=3 -->
