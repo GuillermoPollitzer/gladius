@@ -17,11 +17,6 @@
 				<beamWeapon muzzleBone=".Muzzle"/>
 			</model>
 		</weapon>
-		<weapon name="FusionBlaster">
-			<model>
-				<beamWeapon muzzleBone=".Muzzle"/>
-			</model>
-		</weapon>
 		<weapon name="SeekerMissile" count="2" enabled="0" 
 				slotName="SeekerMissile">
 			<model>
@@ -34,7 +29,7 @@
 	<modifiers>
 		<modifier visible="0">
 			<effects>
-				<armor base="8"/> <!-- %armor base armor=11/10/10 -->
+				<armor base="6"/> <!-- %armor base armor=11/10/10 -->
 				<energyCost base="15.0"/> <!-- %energyCost base tier=5 factor=0.5 -->
 				<oreUpkeep base="1.5"/> <!-- %oreUpkeep base tier=5 factor=1 -->
 				<oreCost base="15.0"/> <!-- %oreCost base tier=5 factor=0.5 -->
