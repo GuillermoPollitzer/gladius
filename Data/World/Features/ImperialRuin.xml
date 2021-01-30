@@ -3,7 +3,7 @@
 		ambientSoundLayer="1"
 		ambientSoundPriority="0"
 		audioEffectSystem="City"
-		blockingSight="1"
+		blockingSight="0"
 		category="ImperialRuins">
 	<model>
 		<imperialRuin material="Buildings/AstraMilitarum/Buildings"/>

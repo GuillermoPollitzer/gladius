@@ -23,7 +23,7 @@
 				</unit>
 			</conditions>
 			<effects>
-				<movementCost min="100"/>
+				<movementCost min="2"/>
 			</effects>
 		</modifier>
 	</modifiers>

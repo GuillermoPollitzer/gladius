@@ -4,7 +4,7 @@
 		ambientSoundPriority="0"
 		audioEffectSystem="Forest"
 		category="Forest"
-		blockingSight="1"
+		blockingSight="0"
 		icon="Traits/Forest">
 	<model>
 		<vegetation material="Terrain/Vegetation"

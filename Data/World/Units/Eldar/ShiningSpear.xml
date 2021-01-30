@@ -121,7 +121,7 @@
 			<beginTargets>
 				<selfTarget>
 					<areas>
-						<area affects="Tile" radius="3">
+						<area affects="Tile" radius="6">
 							<modifiers>
 								<modifier>
 									<effects>

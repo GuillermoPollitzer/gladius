@@ -3,7 +3,7 @@
 		ambientSoundLayer="1"
 		ambientSoundPriority="1"
 		audioEffectSystem="City"
-		blockingSight="1"
+		blockingSight="0"
 		category="Building"
 		icon="Factions/AstraMilitarum">
 	<model>
