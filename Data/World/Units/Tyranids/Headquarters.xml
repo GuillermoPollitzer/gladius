@@ -12,7 +12,7 @@
 				explosionsBone="HQBone"/>
 	</model>
 	<weapons>
-		<weapon name="Devourer" count="5">
+		<weapon name="Fleshborer" count="14">
 			<model>
 				<projectileWeapon mesh="Weapons/Tyranids/HeadquartersDevourers"
 						material="Buildings/Tyranids/Buildings"
