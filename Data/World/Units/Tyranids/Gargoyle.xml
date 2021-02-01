@@ -151,5 +151,6 @@
 		<trait name="Tyranids/InfantryUpkeep" requiredUpgrade="Tyranids/InfantryUpkeep"/>
 		<trait name="Tyranids/InstinctiveBehaviour"/>
 		<trait name="Tyranids/ToxinSacs" requiredUpgrade="Tyranids/ToxinSacs"/>
+		<trait name="Tyranids/AcidBlood"/>
 	</traits>
 </unit>
