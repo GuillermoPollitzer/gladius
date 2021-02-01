@@ -27,7 +27,7 @@
 				<biomassCost base="20.0"/> <!-- %biomassCost base tier=4 factor=1 -->
 				<hitpointsMax base="2.0"/> <!-- %hitpointsMax base toughness=3 wounds=1 -->
 				<meleeAccuracy base="6"/> <!-- %meleeAccuracy base weaponSkill=3 -->
-				<meleeAttacks base="2"/>
+				<meleeAttacks base="1"/>
 				<strengthDamage base="1"/> <!-- %strengthDamage base strength=3 -->
 				<moraleMax base="4"/> <!-- %moraleMax base leadership=5 -->
 				<movementMax base="3"/>
@@ -118,5 +118,9 @@
 		<trait name="Tyranids/InstinctiveBehaviour"/>
 		<trait name="MoveThroughCover"/>
 		<trait name="Tyranids/ToxinSacs" requiredUpgrade="Tyranids/ToxinSacs"/>
+		<trait name="Smash"/>
+		<trait name="Infiltrate"/>
+		<trait name="Rampage"/>
+		<trait name="HitAndRun"/>
 	</traits>
 </unit>
