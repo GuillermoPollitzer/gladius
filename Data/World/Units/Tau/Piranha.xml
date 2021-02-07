@@ -81,7 +81,7 @@
 						endFire="2"/>
 			</model>				
 		</useWeapon>
-		<deployGunDrone cooldown="5"
+		<deployGunDrone cooldown="3"
 				name="Tau/DeployDrone"
 				requiredActionPoints="0"
 				consumedActionPoints="0"

@@ -107,7 +107,7 @@
 				</selfTarget>
 			</beginTargets>
 		</bondingKnifeRitual>
-		<deployGunDrone cooldown="10"
+		<deployGunDrone cooldown="5"
 				name="Tau/DeployDrone"
 				requiredActionPoints="0"
 				consumedActionPoints="0"
@@ -153,7 +153,7 @@
 				<action name="Tau/DeployDrone/Tau/MarkerDrone"/>
 			</sharedCooldowns>
 		</deployGunDrone>
-		<deployShieldDrone cooldown="10"
+		<deployShieldDrone cooldown="5"
 				name="Tau/DeployDrone"
 				requiredActionPoints="0"
 				consumedActionPoints="0"

@@ -389,7 +389,7 @@
 	<entry name="ClusterMinesDescription" value="Deals damage upon entering the tile."/>
 	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
 	<entry name="CombatShield" value="Combat Shield"/>
-	<entry name="CombatShieldDescription" value="Increases the damage reduction."/>
+	<entry name="CombatShieldDescription" value="Reduces damage by 25%."/>
 	<entry name="CombatShieldFlavor" value="A combat shield is a lighter version of the storm shield fitted to the wearer's vambrace, leaving their hand free to wield another weapon whilst providing protection from incoming attacks."/>
 	<entry name="CompendiumFlavor" value="If the warriors of the 41st millenium were identical, these wars would be a matter of sheer manpower—and humanity would have won long ago. Instead, each race, troop type and soldier has their own traits, which make them ideal for certain situations—and leave them horribly exposed in others."/>
 	<entry name="Concussion" value="Concussion"/>

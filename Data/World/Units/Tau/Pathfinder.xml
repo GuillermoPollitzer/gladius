@@ -167,7 +167,7 @@
 				</target>
 			</beginTargets>
 		</markerlight>
-		<deployReconDrone cooldown="10"
+		<deployReconDrone cooldown="5"
 				name="Tau/DeployDrone"
 				requiredActionPoints="0"
 				consumedActionPoints="0"
@@ -212,7 +212,7 @@
 				<action name="Tau/DeployDrone/Tau/GravInhibitorDrone"/>
 			</sharedCooldowns>
 		</deployReconDrone>
-		<deployPulseAcceleratorDrone cooldown="10"
+		<deployPulseAcceleratorDrone cooldown="5"
 				name="Tau/DeployDrone"
 				requiredActionPoints="0"
 				consumedActionPoints="0"

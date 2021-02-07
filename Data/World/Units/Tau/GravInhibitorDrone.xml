@@ -72,7 +72,7 @@
 						sound="Actions/GravityWaveProjector"/>
 			</model>
 			<beginTargets>
-				<target rangeMax="1">
+				<target rangeMax="2">
 					<conditions>
 						<tile>
 							<noUnit/>
@@ -85,7 +85,7 @@
 							<modifiers>
 								<modifier>
 									<effects>
-										<addFeature duration="1" name="GravityWaves"/>
+										<addFeature duration="10" name="GravityWaves"/>
 									</effects>
 								</modifier>
 							</modifiers>
