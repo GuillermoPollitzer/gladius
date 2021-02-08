@@ -18,12 +18,17 @@
 				<flamerWeapon muzzleBone=".Muzzle"/>			
 			</model>
 		</weapon>
-		<weapon name="MissilePod">
+		<weapon name="PulseRifle">
+			<model>
+				<projectileWeapon muzzleBone=".Muzzle"/>
+			</model>
+		</weapon>
+		<!--<weapon name="MissilePod">
 			<model>
 				<missileWeapon muzzleBone=".Missile" muzzleCount="3"
 						missileScale="0.5"/>
 			</model>
-		</weapon>
+		</weapon>-->
 	</weapons>
 	<modifiers>
 		<modifier visible="0">
