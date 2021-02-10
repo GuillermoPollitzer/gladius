@@ -22,8 +22,6 @@
 		<track name="Music/BGM1"/>
 		<track name="Music/ChaosSpaceMarinesBGM" dlc="Supplement3"/>
 		<track name="Music/ChaosSpaceMarinesTheme" dlc="Supplement3"/>
-		<track name="Music/EldarBGM" dlc="Supplement6"/>
-		<track name="Music/EldarTheme" dlc="Supplement6"/>
 		<track name="Music/MainBGM"/>
 		<track name="Music/MainTheme"/>
 		<track name="Music/NecronsBGM"/>
@@ -299,10 +297,17 @@
 		</quest>
 	</quests>
 	<actions>
-		<deployCity charges="1">
+		<deployCity cooldown="10" cooldownScalesWithPace="1" costScalesWithCities="1">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="120"/>
+					</effects>
+				</modifier>
+			</modifiers>
 		</deployCity>
 		<deployFortress cooldown="10"
 				cooldownScalesWithPace="1"
@@ -568,3 +573,4 @@
 		<unit type="SpaceMarines/TacticalSpaceMarine" count="2"/>
 	</startingUnits>
 </faction>
+
